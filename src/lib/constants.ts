@@ -40,7 +40,7 @@ export const CLIENT_LOGOS = [
 ];
 
 export const RESELLING_BRANDS = [
-    { src: '/images/reselling-brands/Vishay.png', alt: 'Vishay', dataAiHint: 'logo electronics' },
+    { src: '/images/reselling-brands/Vishay_Logo.png', alt: 'Vishay', dataAiHint: 'logo vishay' },
     { src: '/images/reselling-brands/XP_Power.png', alt: 'XP Power', dataAiHint: 'logo power' },
     { src: '/images/reselling-brands/Eaton.png', alt: 'Eaton', dataAiHint: 'logo power management' },
     { src: '/images/reselling-brands/Empro.png', alt: 'Empro', dataAiHint: 'logo electronics' },
