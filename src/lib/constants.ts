@@ -15,7 +15,7 @@ export const PARTNER_LOGOS = [
   { src: '/images/logos/smartpower-automation.png', alt: 'Smartpower Automation', dataAiHint: 'logo automation' },
   { src: '/images/logos/phoenix-contact.png', alt: 'Phoenix Contact', dataAiHint: 'logo electronics' },
   { src: '/images/logos/grainger.png', alt: 'Grainger', dataAiHint: 'logo industrial supply' },
-  { src: 'https://placehold.co/150x60/EFEFEF/333366?text=Technofront', alt: 'Technofront Electronics', dataAiHint: 'logo electronics' },
+  { src: '/images/logos/technofront-electronics.jpg', alt: 'Technofront Electronics', dataAiHint: 'logo electronics' },
 ];
 
 export const CLIENT_LOGOS = [
