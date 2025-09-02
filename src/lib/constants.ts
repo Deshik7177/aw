@@ -23,7 +23,7 @@ export const CLIENT_LOGOS = [
   { src: '/images/key_accounts/ecil-logo.jpeg', alt: 'ECIL', dataAiHint: 'logo aerospace' },
   { src: '/images/key_accounts/NSTL-LOGO.jpeg', alt: 'NSTL', dataAiHint: 'logo space research' },
   { src: '/images/key_accounts/JNTUH-LOGO.jpg', alt: 'JNTUH', dataAiHint: 'logo navy' },
-  { src: '/images/key_accounts/BARC-LOGO.jpg', alt: 'BARC', dataAiHint: ' atomic research' },
+  { src: '/images/key_accounts/BARC-LOGO.JPG', alt: 'BARC', dataAiHint: ' atomic research' },
   { src: '/images/key_accounts/DLRL-LOGO.jpg', alt: 'DLRL', dataAiHint: 'logo atomic research' },
   { src: '/images/key_accounts/BHARAT-ELECTRONICS-LOGO.png', alt: 'BHARAT-ELECTRONICS', dataAiHint: 'logo defence' },
   { src: '/images/key_accounts/ISRO-LOGO.png', alt: 'ISRO', dataAiHint: 'logo electronics corporation' },
