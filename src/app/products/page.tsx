@@ -95,10 +95,6 @@ const designAndEngineering = {
         "19”, 2u & 1u Systems", "LCD Monitors 19”, rack mount LCD KVM", "Ethernet Switch", "Rugged Tablets", "Managed Ethernet"
     ],
      "images": [
-        { src: "https://placehold.co/400x300.png", alt: "Rugged Tablet", dataAiHint: "rugged tablet" },
-        { src: "https://placehold.co/400x300.png", alt: "Rugged Monitor", dataAiHint: "rugged monitor" },
-        { src: "https://placehold.co/400x300.png", alt: "Rack-mount Display", dataAiHint: "server rack" },
-        { src: "https://placehold.co/400x300.png", alt: "Rugged Server", dataAiHint: "rugged server" },
     ]
 };
 
