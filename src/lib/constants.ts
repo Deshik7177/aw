@@ -29,9 +29,13 @@ export const CLIENT_LOGOS = [
   { src: '/images/key_accounts/ISRO-LOGO.png', alt: 'ISRO', dataAiHint: 'logo electronics corporation' },
   { src: '/images/key_accounts/BHARAT-DYNAMICS-LIMITED-LOGO.png', alt: 'BHARAT-DYNAMICS-LIMITED', dataAiHint: 'logo electronics' },
   { src: '/images/key_accounts/HAL-LOGO.png', alt: 'HAL', dataAiHint: 'logo oceanography' },
+  { src: '/images/key_accounts/TECH-MAHENDRA-LOGO.PNG', alt: 'Tech Mahindra', dataAiHint: 'logo technology' },
+  { src: '/images/key_accounts/Qualcomm-Logo.png', alt: 'Qualcomm', dataAihint: 'logo arch'},
+  { src: '/images/key_accounts/INDIAN-NAVY-LOGO.jpg', alt: 'Indian Navy', dataAihint: 'logo Indian Navy'},
+  { src: '/images/key_accounts/TSGENCO-logo.png', alt: 'TSGENCO', dataAiHint: 'logo TSGENCO'},
   { src: 'https://placehold.co/150x60/EFEFEF/333366?text=INCOIS', alt: 'INCOIS', dataAiHint: 'logo ocean information' },
   { src: 'https://placehold.co/150x60/EFEFEF/333366?text=NMRL', alt: 'NMRL', dataAiHint: 'logo naval material' },
-  { src: 'https://placehold.co/150x60/EFEFEF/333366?text=Tech+Mahindra', alt: 'Tech Mahindra', dataAiHint: 'logo technology' },
+  
   { src: 'https://placehold.co/150x60/EFEFEF/333366?text=Qualcomm', alt: 'Qualcomm', dataAiHint: 'logo semiconductor' },
 ];
 
