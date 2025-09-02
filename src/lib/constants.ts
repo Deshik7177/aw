@@ -33,10 +33,10 @@ export const CLIENT_LOGOS = [
   { src: '/images/key_accounts/Qualcomm-Logo.png', alt: 'Qualcomm', dataAihint: 'logo arch'},
   { src: '/images/key_accounts/INDIAN-NAVY-LOGO.jpg', alt: 'Indian Navy', dataAihint: 'logo Indian Navy'},
   { src: '/images/key_accounts/TSGENCO-logo.png', alt: 'TSGENCO', dataAiHint: 'logo TSGENCO'},
-  { src: 'https://placehold.co/150x60/EFEFEF/333366?text=INCOIS', alt: 'INCOIS', dataAiHint: 'logo ocean information' },
-  { src: 'https://placehold.co/150x60/EFEFEF/333366?text=NMRL', alt: 'NMRL', dataAiHint: 'logo naval material' },
-  
-  { src: 'https://placehold.co/150x60/EFEFEF/333366?text=Qualcomm', alt: 'Qualcomm', dataAiHint: 'logo semiconductor' },
+  { src: '/images/key_accounts/INCOIS-LOGO.jpeg', alt: 'INCOIS', dataAiHint: 'logo ocean information' },
+  { src: '/images/key_accounts/NARL-LOGO.jpeg', alt: 'NARL', dataAiHint: 'logo naval material' },
+  { src: '/images/key_accounts/NGRI-LOGO.png', alt: 'NGRI', dataAiHint: 'logo ngri material' },
+  { src: 'public/images/key_accounts/Indian-Railway.jpg', alt: 'Indian Railways', dataAiHint: 'logo indian railways' },
 ];
 
 export const RESELLING_BRANDS = [
