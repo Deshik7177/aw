@@ -67,8 +67,9 @@ const cableAssemblies = {
     "images": [
         { src: "/images/products/wire-cutting-and-stripping-machines.jpg", alt: "Wire Cutting Machine", dataAiHint: "wire cutting machine" },
         { src: "/images/products/sleeve-cutting-machine.jpg", alt: "Sleeve Cutting Machine", dataAiHint: "sleeve cutting machine" },
-        { src: "https://placehold.co/400x300.png", alt: "Wire Harnessing Machine", dataAiHint: "wire harnessing" },
-        { src: "https://placehold.co/400x300.png", alt: "Wire Stripping Machine", dataAiHint: "wire stripping machine" },
+        { src: "/images/products/Copper-Busbar-Insulation-Stripping-Machine.jpg", alt: "Copper Busbar Insulation Stripping Machine", dataAiHint: "copper busbar insulation stripping machine" },
+        { src: "/images/products/wire-harness.jpg", alt: "Wire Harnessing Machine", dataAiHint: "wire harnessing" },
+        { src: "/images/products/wire-stripping.jpg", alt: "Wire Stripping Machine", dataAiHint: "wire stripping machine" },
     ]
 };
 
