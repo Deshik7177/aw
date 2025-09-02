@@ -51,11 +51,11 @@ const repairsAndServices = {
         "Automatic Test Systems", "SMPS", "Tracking Systems", "Electro-Mechanical Systems", "Development Kits"
     ],
     "images": [
-        { src: "https://placehold.co/400x300.png", alt: "Oscilloscopes", dataAiHint: "oscilloscope" },
-        { src: "https://placehold.co/400x300.png", alt: "Spectrum Analyzer", dataAiHint: "spectrum analyzer" },
-        { src: "https://placehold.co/400x300.png", alt: "Signal Generator", dataAiHint: "signal generator" },
-        { src: "https://placehold.co/400x300.png", alt: "Multimeter", dataAiHint: "multimeter" },
-        { src: "https://placehold.co/400x300.png", alt: "Test Equipment", dataAiHint: "test equipment" },
+        { src: "/images/products/oscilloscopes.png", alt: "Oscilloscopes", dataAiHint: "oscilloscope" },
+        { src: "/images/products/spectrum-analyzer.jpg", alt: "Spectrum Analyzer", dataAiHint: "spectrum analyzer" },
+        { src: "/images/products/Signal-Generator.png", alt: "Signal Generator", dataAiHint: "signal generator" },
+        { src: "/images/products/Digital-Millimeters.jpg", alt: "Multimeter", dataAiHint: "multimeter" },
+        { src: "/images/products/Frequency-Counters.jpg", alt: "Test Equipment", dataAiHint: "test equipment" },
     ]
 };
 
@@ -65,7 +65,8 @@ const cableAssemblies = {
         "Automatic Wire Cutting & Stripping Machine", "Sleeve Cutting Machine", "Flat Flexible Cable Cutting & Stripping Machine"
     ],
     "images": [
-        { src: "https://placehold.co/400x300.png", alt: "Wire Cutting Machine", dataAiHint: "wire cutting machine" },
+        { src: "/images/products/wire-cutting-and-stripping-machines.jpg", alt: "Wire Cutting Machine", dataAiHint: "wire cutting machine" },
+        { src: "/images/products/sleeve-cutting-machine.jpg", alt: "Sleeve Cutting Machine", dataAiHint: "sleeve cutting machine" },
         { src: "https://placehold.co/400x300.png", alt: "Wire Harnessing Machine", dataAiHint: "wire harnessing" },
         { src: "https://placehold.co/400x300.png", alt: "Wire Stripping Machine", dataAiHint: "wire stripping machine" },
     ]
