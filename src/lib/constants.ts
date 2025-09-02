@@ -27,7 +27,7 @@ export const CLIENT_LOGOS = [
   { src: '/images/logos/DLRL-LOGO.jpg', alt: 'DLRL', dataAiHint: 'logo atomic research' },
   { src: '/images/logos/BHARAT-ELECTRONICS-LOGO.png', alt: 'BHARAT-ELECTRONICS', dataAiHint: 'logo defence' },
   { src: '/images/logos/ISRO-LOGO.png', alt: 'ISRO', dataAiHint: 'logo electronics corporation' },
-  { src: 'https://placehold.co/150x60/EFEFEF/333366?text=BEL', alt: 'BEL', dataAiHint: 'logo electronics' },
+  { src: '/images/logos/BHARAT-DYNAMICS-LIMITED-LOGO.png', alt: 'BHARAT-DYNAMICS-LIMITED', dataAiHint: 'logo electronics' },
   { src: 'https://placehold.co/150x60/EFEFEF/333366?text=NPOL', alt: 'NPOL', dataAiHint: 'logo oceanography' },
   { src: 'https://placehold.co/150x60/EFEFEF/333366?text=INCOIS', alt: 'INCOIS', dataAiHint: 'logo ocean information' },
   { src: 'https://placehold.co/150x60/EFEFEF/333366?text=NMRL', alt: 'NMRL', dataAiHint: 'logo naval material' },
