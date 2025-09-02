@@ -36,7 +36,7 @@ export const CLIENT_LOGOS = [
   { src: '/images/key_accounts/INCOIS-LOGO.jpeg', alt: 'INCOIS', dataAiHint: 'logo ocean information' },
   { src: '/images/key_accounts/NARL-LOGO.jpeg', alt: 'NARL', dataAiHint: 'logo naval material' },
   { src: '/images/key_accounts/NGRI-LOGO.png', alt: 'NGRI', dataAiHint: 'logo ngri material' },
-  { src: 'public/images/key_accounts/Indian-Railway.jpg', alt: 'Indian Railways', dataAiHint: 'logo indian railways' },
+  { src: '/images/key_accounts/Indian-Railway.jpg', alt: 'Indian Railways', dataAiHint: 'logo indian railways' },
 ];
 
 export const RESELLING_BRANDS = [
