@@ -28,8 +28,8 @@ const productCategories = {
         "Enclosures", "Embedded Solutions", "Opto Electronics", "Switch Measure & Monitor"
     ],
     "Industrial Production Safety & Security Equipment": [
-        "Adhesives", "Hardware", "Lubrication", "Plumbing", "Transmission",
-        "Welding", "Lubrication", "Janitorial", "Electrical", "Hydraulics",
+        "Adhesives", "Hardware", "Plumbing", "Transmission",
+        "Welding", "Janitorial", "Electrical", "Hydraulics",
         "Machining", "Pneumatics", "Safety", "Batteries", "Abrasives", "HVAC",
         "Fastners", "Lighting", "Motors", "Power", "Test & Measure",
         "Refrigration", "Cleaning", "Fleet & Vehicle"
