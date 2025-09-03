@@ -95,6 +95,10 @@ const designAndEngineering = {
         "19”, 2u & 1u Systems", "LCD Monitors 19”, rack mount LCD KVM", "Ethernet Switch", "Rugged Tablets", "Managed Ethernet"
     ],
      "images": [
+        { src: "/images/products/Command-&-Control-ConsoleSystem-new.png", alt: "Rugged Servers", dataAiHint: "rugged servers" },
+        { src: "/images/products/Mil-Grade-Control-System.png", alt: "Rugged Notebooks", dataAiHint: "rugged notebooks" },
+        { src: "/images/products/MIL-Qualified-Rugged-Displays.png", alt: "Rugged Workstations", dataAiHint: "rugged workstations"},
+        { src: "/images/products/rugged-pc.jpg", alt: "Rugged Switches", dataAiHint: "rugged switches"},
     ]
 };
 
