@@ -47,7 +47,7 @@ export default function Home() {
                     <Image src="/images/logos/awon-logo.jpg" alt="AWON Logo" width={100} height={100} className="rounded-full" />
                 </div>
                  <div className="relative w-20 h-14 sm:w-24 sm:h-16">
-                    <Image src="/images/logos/10th.jpeg" alt="10th Anniversary" layout="fill" objectFit="contain" data-ai-hint="anniversary badge"/>
+                    <Image src="/images/logos/10th.jpeg" alt="10th Anniversary" fill sizes="6rem" style={{objectFit: "contain"}} data-ai-hint="anniversary badge"/>
                 </div>
               </div>
               <h1 className="font-headline text-4xl font-bold tracking-tight text-foreground sm:text-5xl md:text-6xl">

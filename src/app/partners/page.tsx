@@ -16,8 +16,9 @@ const LogoGrid = ({ logos }: { logos: { src: string, alt: string, dataAiHint: st
             <Image
               src={logo.src}
               alt={logo.alt}
-              layout="fill"
-              objectFit="contain"
+              fill
+              sizes="(max-width: 768px) 50vw, (max-width: 1200px) 20vw, 15vw"
+              style={{objectFit: "contain"}}
               data-ai-hint={logo.dataAiHint}
             />
         </div>

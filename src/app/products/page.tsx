@@ -87,7 +87,7 @@ const designAndEngineering = {
     ],
     "products": [
         "Embedded P.Cs", "Wi-Fi Radios", "Rugged Servers", "Rugged Notebooks", "Rugged Workstations",
-        "Rugged Switches", "Rugged Handhelds", "Rugged Displays", "Rugged Power Supplies", "Rugged P.Cs",
+        "Rugged Switches", "Rugged Handhelds", "Rugged Displays", "Rugged Power Supplies",
         "Routers and Modems", "Monitored Switches", "Industrial Computers", "Programmable Power Supplies"
     ],
     "otherCapabilities": [
@@ -116,7 +116,9 @@ const ListGrid = ({ items }: { items: string[] }) => (
 const ImageGrid = ({ images }: { images: {src: string, alt: string, dataAiHint: string}[] }) => (
     <div className="mt-8 grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
         {images.map(image => (
-            <Image key={image.alt} src={image.src} alt={image.alt} width={400} height={300} className="rounded-lg shadow-md" data-ai-hint={image.dataAiHint} />
+             <div key={image.alt} className="relative aspect-[4/3]">
+                <Image src={image.src} alt={image.alt} fill sizes="(max-width: 640px) 50vw, (max-width: 768px) 33vw, (max-width: 1024px) 25vw, 20vw" style={{objectFit: "cover"}} className="rounded-lg shadow-md" data-ai-hint={image.dataAiHint} />
+             </div>
         ))}
     </div>
 );
@@ -147,8 +149,9 @@ export default function ProductsPage() {
                       <Image
                         src={logo.src}
                         alt={logo.alt}
-                        layout="fill"
-                        objectFit="contain"
+                        fill
+                        sizes="(max-width: 640px) 50vw, (max-width: 1024px) 25vw, 15vw"
+                        style={{objectFit: "contain"}}
                         data-ai-hint={logo.dataAiHint}
                       />
                     </div>

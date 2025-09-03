@@ -28,8 +28,9 @@ const LogoScroller = ({ logos, reverse = false }: { logos: Logo[]; reverse?: boo
           <Image
             src={logo.src}
             alt={logo.alt}
-            layout="fill"
-            objectFit="contain"
+            fill
+            sizes="150px"
+            style={{objectFit:"contain"}}
             className="transition-all duration-300 hover:scale-110"
             data-ai-hint={logo.dataAiHint}
           />
